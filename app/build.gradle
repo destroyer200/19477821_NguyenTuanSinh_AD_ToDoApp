@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.iuh_ad.nguyentuansinh.mssv_19477821.a19477821_nguyentuansinh_ad_todoapp"
-        minSdk 21
+        minSdk 16
         targetSdk 31
         versionCode 1
         versionName "1.0"
@@ -38,6 +38,12 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
+
+    implementation 'com.google.android.material:material:1.1.0'
+
+    implementation 'com.google.firebase:firebase-database:19.3.1'
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.3'
     implementation 'com.google.firebase:firebase-auth:21.0.1'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
