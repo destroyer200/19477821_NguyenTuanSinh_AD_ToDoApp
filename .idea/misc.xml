@@ -6,10 +6,18 @@
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20833333333333334" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/custom.xml" value="0.26614583333333336" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_check_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_delete_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_edit_24.xml" value="0.26614583333333336" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20833333333333334" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/drawable/ic_plus_24.xml" value="0.26614583333333336" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.15625" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/layout/context.xml" value="0.25" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/layout/fragment_dialog_add_item.xml" value="0.25" />
         <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/layout/row_itemlayout.xml" value="0.25" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/layout/task_item.xml" value="0.25" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/menu/top_app_bar.xml" value="0.25" />
+        <entry key="..\:/data/androi_app/19477821_NguyenTuanSinh_AD_ToDoApp/app/src/main/res/xml/backup_descriptor.xml" value="0.25" />
       </map>
     </option>
   </component>
